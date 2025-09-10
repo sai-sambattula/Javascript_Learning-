@@ -43,6 +43,7 @@ pass by values
 
 let arr1 = [1,2,3];
 let arr2 = arr1;
+arr1=[]
 console.log("assign data of arr1 to arr2",arr1, arr2); // [1,2,3,4] [1,2,3,4]
 arr2.push(4);
 console.log("after changing data in arr2",arr1, arr2); // [1,2,3,4] [1,2,3,4]

@@ -1,6 +1,6 @@
 from Now started rebuilding the strong foundation in javascript 
 
-Day 1 -> 
+Day 1 -> 09-09-2025
 
     Datatypes and Variables
 
